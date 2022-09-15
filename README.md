@@ -1,4 +1,4 @@
-# Python Debugging Activity
+# Python Debugging Activity - Valentina Ruiz
 
 This repository is used in the Ada Python Debugging Activity as an exercise for Ada students to practice using the Python debugger in VS Code.
 
